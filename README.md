@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @alishamaei
-- 👀 I’m interested in ...
-       DevOps
-       SystamAdministrator
-       CPanel Dev
-       Docker
-       Ansible
-       System Manitoring
-       Virtualiztion
-       OPenStack
-       Cisco
-       Mikrotik
-       PHP Programming
-       Network Management and Routing
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...<br>
+       DevOps<br>
+       SystamAdministrator<br>
+       CPanel Dev<br>
+       Docker<br>
+       Ansible<br>
+       System Manitoring<br>
+       Virtualiztion<br>
+       OPenStack<br>
+       Cisco<br>
+       Mikrotik<br>
+       PHP Programming<br>
+       Network Management and Routing<br>
+- 🌱 I’m currently learning ...<br>
      OpenStack...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...<br>
       me[at]shamaei[dot]com
 
 <!---
